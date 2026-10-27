@@ -1,4 +1,4 @@
-module github.com/go-micah/go-bedrock
+module github.com/micahwalter/go-bedrock
 
 go 1.22.1
 
