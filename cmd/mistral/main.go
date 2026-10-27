@@ -8,7 +8,7 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime"
-	"github.com/go-micah/go-bedrock/providers"
+	"github.com/micahwalter/go-bedrock/providers"
 )
 
 func main() {

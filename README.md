@@ -1,4 +1,4 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/go-micah/go-bedrock.svg)](https://pkg.go.dev/github.com/go-micah/go-bedrock)
+[![Go Reference](https://pkg.go.dev/badge/github.com/micahwalter/go-bedrock.svg)](https://pkg.go.dev/github.com/micahwalter/go-bedrock)
 
 # go-bedrock
 
@@ -17,7 +17,7 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime"
-	"github.com/go-micah/go-bedrock/providers"
+	"github.com/micahwalter/go-bedrock/providers"
 )
 
 func main() {
